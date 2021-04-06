@@ -17,6 +17,9 @@
 	<description>Spring Boot Phone Book Application</description>
 
 	<properties>
+		<sonar.projectKey>PhoneBookApp</sonar.projectKey>
+		<sonar.host.url>http://ip172-18-0-18-c1m9mbpbqvp0009gjdn0-9000.direct.labs.play-with-docker.com</sonar.host.url>
+		<sonar.login>535b0ee2118bea098b6ca88195ea0c42fdfacd44</sonar.login>
 		<java.version>1.8</java.version>
 	</properties>
 
